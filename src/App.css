@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.search-box{
+  font-size: 1.5rem;
+  border: 2px solid rgb(3, 3, 107);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+}
+.button-cls{
+  font-size: 1.5rem;
+  border: 2px solid white;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  background-color: blue;
+  color: white;
+}
+.heading-col{
+  color: #0781f7;
+}
